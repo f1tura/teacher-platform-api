@@ -116,4 +116,3 @@ teacher-platform/
 ├── docs/
 ├── docker-compose.yml
 ├── go.mod
-└── .env
